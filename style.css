@@ -45,3 +45,15 @@ body{
 #linkUm{
     margin-right: 20px;
 }
+#caixaGif{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 100px;
+}
+#GifHome{
+     margin-top: 75px;
+    width: 500px;
+    height: 500px;
+}
